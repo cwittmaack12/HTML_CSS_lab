@@ -1,0 +1,84 @@
+.Top-Container{
+    display: flex;
+    align-items: center;
+    border: solid;
+    height: 180px;
+    margin-left: 25px ;
+    margin-right: 25px;
+
+}
+
+.Purple-Rect{
+    background-color: blueviolet;
+    height: 140px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 15px;
+
+}
+
+.Green-Rect{
+    background-color: green;
+    height: 160px;
+    width: 330px;
+    margin-left: 120px;
+}
+
+.blue-Circle{
+    background-color: lightblue;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    margin-left: 120px;
+}
+
+.spacer{
+    height: 50px;
+}
+
+.dotted-rect{
+    border: dotted;
+    height: 275px;
+    margin-left: 25px ;
+    margin-right: 25px;
+    display: flex;
+    align-items: center;    
+    justify-content: center;
+}
+
+.tan-box{
+    background-color: khaki;
+    height: 80%;
+    width: 95%;
+    box-shadow: 10px 15px 5px black ;
+}
+
+.Hello-Friends{
+    border: solid thin black ;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 275px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 10px, 15px, 5px rgb(10, 10, 10);
+}
+
+.text{
+    font-size: 150%;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    text-align: center;
+    width: 140px;
+    letter-spacing: 7px;
+    
+}
+
+
+
+
+
+
+
+
+
